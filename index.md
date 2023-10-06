@@ -11,3 +11,8 @@ function sayHi() {
 
 sayHi()
 ```
+- [x] Add headers
+- [x] Add image and alt text
+- [x] Add a code example
+- [x] Make a task list
+- [ ] Merge pull request
